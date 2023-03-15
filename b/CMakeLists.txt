@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(A a.c b.c)
