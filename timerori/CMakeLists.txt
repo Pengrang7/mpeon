@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+find_package (Threads REQUIRED)
+add_executable (myapp Timer.cc main.cc Utility.cc StopWatch.cc)
+set(THREADS_PREFER_PTHREAD_FLAG ON)
+target_link_libraries (myapp ${CMAKE_THREAD_LIBS_INIT})
