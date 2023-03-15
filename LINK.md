@@ -1,6 +1,6 @@
 엠피온 OBU를 통해 만든 코드
 
-초기 문서: https://docs.google.com/document/d/1YA1hWFiDN4GUo_bbDvTxW9ZsFbxxAztjOiLuaOBreX8/edit?usp=sharing
+초기 문서: https://docs.google.com/document/d/1YA1hWFiDN4GUo_bbDvTxW9ZsFbxxAztjOiLuaOBreX8/edit?usp=sharing  
 수정 문서: https://docs.google.com/document/d/11Rgvvvyk7T_rp-Vrklrfx5_4XqQeKPBV6mT8wWIoMf8/edit?usp=sharing
 
 인터페이스 문서: https://docs.google.com/document/d/1VrNkd-dBaITXJUp3JwLKqk8-lutFZ4ITTtcOqyz7N1M/edit?usp=sharing
