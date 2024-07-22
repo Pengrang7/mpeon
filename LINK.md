@@ -10,7 +10,7 @@
 참고로 받은 문서: https://docs.google.com/document/d/1cCEx3ZXfn2B1v1oLUSgIF3A6CUhmSQJ-sZNb8lP0hY4/edit?usp=sharing  
 받은 V2X 동향 자료: https://docs.google.com/presentation/d/1rxGD08svLWEmi-yYAUNRl1gjudDubyRCFaECnX2bX6E/edit?usp=sharing  
   
-발표 PPT: https://drive.google.com/drive/u/0/my-drive?ths=true  
+발표 PPT: https://docs.google.com/presentation/d/1Bti_IgeELj_HlQGooYpG11bc7FAogWBu/edit?usp=sharing&ouid=112084728472552186037&rtpof=true&sd=true
 PPT -> PDF: https://drive.google.com/file/d/165-X4zK9bcIz8OmEl9HTq9j-kkSE7pIX/view?usp=sharing  
   
 ----------------------------------------------------------------------------------------------------------------------------  
